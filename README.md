@@ -1,4 +1,4 @@
-# Lab Instructions: Object Oriented Programming
+# Object Oriented Programming Task
  
 > ### **Tips: Before you Begin**
 > #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
